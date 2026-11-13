@@ -1,0 +1,8 @@
+.venv/
+build/
+.DS_Store
+imgui.ini
+*.log
+build_errors.txt
+debug_bundle/
+CMakeLists_M6_Backup.txt

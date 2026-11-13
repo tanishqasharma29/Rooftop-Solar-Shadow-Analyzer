@@ -1,0 +1,5 @@
+date,local_time,sun_elevation_deg,sun_azimuth_deg,declination_deg,sunrise_ist,sunset_ist,sunlit_panels,shaded_panels,average_exposure_percent,irradiance_w_m2,instantaneous_power_w,daily_energy_kwh,weather_available,temperature_c,cloud_cover_percent,panel_1_power_w,panel_2_power_w,panel_3_power_w,panel_4_power_w,panel_5_power_w,panel_6_power_w,panel_7_power_w,panel_8_power_w,panel_9_power_w,panel_10_power_w,panel_11_power_w,panel_12_power_w
+2026-06-21,12.00,82.78,134.34,23.45,5.46,19.29,12,0,95.07,624.00,191.65,1.23,1,21.80,1.00,15.97,15.97,15.97,15.97,15.97,15.97,15.97,15.97,15.97,15.97,15.97,15.97
+2026-03-20,16.02,31.68,249.76,-0.39,6.50,18.47,4,8,8.49,181.14,5.19,0.03,1,25.30,74.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,2.57,1.75,0.82,0.05
+2026-09-22,12.00,61.83,172.63,0.64,6.21,18.25,12,0,98.85,584.00,245.85,1.23,1,25.70,79.00,20.49,20.49,20.49,20.49,20.49,20.49,20.49,20.49,20.49,20.49,20.49,20.49
+2026-12-21,12.00,37.77,174.49,-23.42,7.23,17.41,12,0,84.46,584.00,210.06,1.05,1,25.70,79.00,17.51,17.51,17.51,17.51,17.51,17.51,17.51,17.51,17.51,17.51,17.51,17.51
